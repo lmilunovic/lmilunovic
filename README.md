@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,bash,java,spring,hibernate,maven,gradle,linux,docker,git,mysql,sqlite,postgres,githubactions,gitlab,gradle&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,bash,java,spring,hibernate,maven,gradle,linux,docker,git,mysql,sqlite,postgres,githubactions,gitlab&perline=20)](https://skillicons.dev)
 
 <!--
 **lmilunovic/lmilunovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
