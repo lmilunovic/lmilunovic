@@ -1,4 +1,4 @@
-### Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,bash,java,spring,linux,docker,git,mysql,sqlite,postgres&perline=20)](https://skillicons.dev)
 
 <!--
 **lmilunovic/lmilunovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
